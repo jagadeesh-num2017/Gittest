@@ -11,7 +11,7 @@
 <s:actionerror/>
  
 <s:form action="add" method="post">
-    <s:textfield name="contact.firstName" label="Firstname_test"/>
+    <s:textfield name="contact.firstName" label="Firstname_test1"/>
     <s:textfield name="contact.lastName" label="Lastname"/>
     <s:textfield name="contact.emailId" label="Email"/>
     <s:textfield name="contact.cellNo" label="Cell No."/>
