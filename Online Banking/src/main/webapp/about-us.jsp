@@ -38,7 +38,7 @@
 											<strong style="color: green;">Genesis</strong><br> <br>
 										</p>
 										<div align="justify">
-											Presto_testing1   Bank derives its name and inspiration from the Indus
+											Presto_testing1  Bank derives its name and inspiration from the Indus
 											Valley civilisation -a culture described by National
 											Geographic as 'one of the greatest of the ancient world'
 											combining a spirit of innovation with sound business and
