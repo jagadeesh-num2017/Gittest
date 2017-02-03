@@ -31,7 +31,7 @@
 						<div class="well">
 
 							<div>
-								<h2 style="color: red;" >Our Profile_test1</h2>
+								<h2 style="color: red;" >Our Presto Bank Profile</h2>
 								<div >
 									<ul>
 										<p>
